@@ -17,3 +17,5 @@ npm i --save redux-logger
 npm install react-timestamp
 
 npm install react-icons --save
+
+npm install uuid
